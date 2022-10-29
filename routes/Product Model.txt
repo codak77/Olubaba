@@ -1,0 +1,16 @@
+Product Model
+
+Name
+Images - array
+decription - string
+ratings -- object { number: max 5, comment: 'baa baa ba'}
+category 
+sub category
+specifications - object
+variations -- array
+shipping cost - string
+product weight - string
+return policy - string
+out Of stock - bool(true/false)
+
+
